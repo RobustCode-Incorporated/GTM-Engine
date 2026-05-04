@@ -19,7 +19,7 @@ From lead generation to deal closing, this system replaces expensive SaaS stacks
 * Treat every execution as **learning data**
 
 ## ARCHITECTURE 
-
+```
                         ┌────────────────────┐
                         │     Frontend       │
                         │ (Dashboard/Admin)  │
@@ -60,7 +60,7 @@ From lead generation to deal closing, this system replaces expensive SaaS stacks
 │                   │ Analytics  │                            │
 │                   └────────────┘                            │
 └──────────────────────────────────────────────────────────────┘
-
+```
 ---
 
 ## 🏗️ System Architecture
